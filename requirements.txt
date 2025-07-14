@@ -1,0 +1,4 @@
+chainlit
+openai
+literalai
+python-dotenv
